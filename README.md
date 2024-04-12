@@ -1,7 +1,7 @@
 # color-generator
 
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/Amanda13609/color-generator-.git
 
 ## Description
 A color generator for artists who are indecisive about color!
